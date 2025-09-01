@@ -1,0 +1,13 @@
+---
+title: "Post With Code"
+author: "Malsha Chamodi"
+date: "2025-09-01"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+This is a post with executable code.
+
+```{r}
+1 + 1
+```
