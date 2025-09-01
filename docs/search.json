@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "My Portfolio",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nSep 1, 2025\n\n\nMalsha Chamodi\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 29, 2025\n\n\nMalsha Chamodi\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Malsha Chamodi",
+    "section": "",
+    "text": "I am a final-year B.Sc. (Hons) Statistics undergraduate at the University of Sri Jayewardenepura with a strong interest in data science and analytics. My academic and project experience has equipped me with skills in statistical modeling, data visualization, analytical problem-solving, and programming using R and Python."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  }
+]
